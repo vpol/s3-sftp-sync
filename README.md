@@ -5,7 +5,7 @@ Syncs files from a SFTP server to an S3 bucket.
 ### Install:
 
 ```sh
-pip install git+https://github.com/CityOfPhiladelphia/s3-sftp-sync.git
+pip install git+https://github.com/vpol/s3-sftp-sync.git
 ```
 
 ### Usage:
